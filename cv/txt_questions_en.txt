@@ -1,0 +1,199 @@
+﻿18
+
+|Where did I get my bachelor of Software Engineering?
+A. Autonomous University of Madrid.
+B. Miskatonic University.
+C. Complutense University of Madrid.
+D. University of Life.
+C
+No, no, no...;NoNo
+There was where I met Cthulhu.;NoNo
+That question was too easy...;WinkHappy
+Where would be better?;DealWithIt
+
+|What hobby do I have?
+A. Cooking.
+B. Creating card pyramids.
+C. Comic book collecting.
+D. Gambling.
+A
+It's very relaxing.;WinkHappy
+That is not correct.;Angry
+Nah, that's nerd stuff...;LOL
+Really? Gambling?;NoNo
+
+|Which one is my favourite video game?
+A. Final Fantasy VII.
+B. The Secret of Monkey Island.
+C. Super Mario. All of them.
+D. World of Warcraft.
+B
+Think about it more carefully next time.;NoNo
+The best game in the world!;WinkHappy
+Super Mario are good games, but... not.;Tongue
+I want to have a life... Ok?;LOL
+
+|Where is Jessica Hyde?
+A. Chillies, Sand, Bleach, Spoon.
+B. You are being so strange today.
+C. This seems to be a TV show reference...
+D. Ok. Stop this video game now, please.
+A
+This shows that you're a big fan of 'Utopia'.;WinkHappy
+No, no, no...;NoNo
+Yes, but that is not the answer I was looking for.;Ains
+You can stop whenever you want.;DealWithIt
+
+|How many siblings do I have?
+A. 0.
+B. 2.
+C. 3.
+D. 6.
+D
+A few more...;NoNo
+A few more...;NoNo
+A few more...;NoNo
+Is it odd?;LOL
+
+|Spartans, What is your profession?
+A. Haauul Haauul Haauul!
+B. Pirates.
+C. Paper Firefighters.
+D. Computer programmers.
+A
+HAAUUL HAAUUL HAAUUL!;DealWithIt
+Pse...;Angry
+It would be a difficult profession;Tongue
+¿Spartans and computers?;Ains
+
+|What is my favorite sport?
+A. Soccer.
+B. Basketball.
+C. Running to catch the bus.
+D. Are video games a sport?
+B
+Boooooring.;Ains
+You are too clever to me.;WinkKiss
+I'm an expert at it. But it is not a sport.;LOL
+Uff... In fact, is not a sport.;NoNo
+
+|How many Pokemon are there?
+A.  150.
+B.  250.
+C.  721.
+D.  Infinite.
+C
+That was at the beginning.;NoNo
+Nearly...;Tongue
+That was just lucky.;LOL
+It might be true in a few years.;LOL
+
+|Why we open our mouths every time we look at the ceiling?
+A. Because of some physiological question.
+B. To drink rainwater.
+C. To look silly.
+D. Sorry, I can't. I'm quadriplegic.
+C
+Are you sure?;NoNo
+The answer is sillier than the question.;Ains
+Sure you've tried when you read.;WinkKiss
+Oh my god... That was a very hard black joke...;LOL
+
+|What did I want to be when I was little?
+A. Pharmacist, as my father.
+B. Programmer in LucasArts.
+C. Teacher, as my mother.
+D. Animator in Pixar studio.
+D
+You are a bit lost.;NoNo
+In his time, LucasArts ruled, but... no.;Angry
+No, no, no...;NoNo
+That was awesome!;WinkKiss
+
+|You fight like a dairy farmer.
+A. I am rubber, you are glue.
+B. How appropriate. You fight like a cow.
+C. THIS IS NOT EVEN A QUESTION!!!
+D. What an idiot!
+B
+That are, obviously, ineffective.;NoNo
+Yeah! I beat the Sword Master!;DealWithIt
+It's true, but Who cares?;Tongue
+That are, obviously, ineffective.;NoNo
+
+|What would be my ideal profession?
+A. Bullfighter.
+B. Corrupt politician.
+C. Professional chef.
+D. Video game developer.
+D
+Of course, not.;Angry
+No, that's already work of spanish politicians.;DealWithIt
+It would be nice, but... not.;Tongue
+Is it obvious... No?;LOL
+
+|Who would win in a fight? Batman or Superman?
+A. Batman.
+B. Superman.
+C. Are a draw.
+D. Chuck Norris.
+D
+Why? He's a human!;NoNo
+Why? He's weakened by kryptonite.;NoNo
+Draw? So boring...;Angry
+Chuck Norris beat all!;DealWithIt
+
+|Who is Larry Laffer?
+A. A petty flirt.
+B. A frontier pharmacist.
+C. A powerful wizard.
+D. A serial killer.
+A
+You have a good video game culture!;WinkKiss
+Are you serious?;Angry
+Today is not your lucky day.;Ains
+Are you serious?;Angry
+
+|Which of these jobs I've never done?
+A. Teacher tutoring.
+B. Software programmer.
+C. Basketball referee.
+D. Housekeeper.
+C
+I've been doing it for many years.;NoNo
+That is my profession...;Ains
+That make sense.;Tongue
+Only occasionally.;LOL
+
+|Is Zero Odd or Even?
+A. Odd.
+B. Even.
+C. Does it matter?.
+D. Is zero a number?.
+B
+You had a 50% chance.;NoNo
+Great!;WinkHappy
+Yes, It matters.;Ains
+Obviously, you are not a mathematician.;DealWithIt
+
+|What place outside Spain I lived in?
+A. Portugal.
+B. Hyrule.
+C. Italy.
+D. France.
+C
+Yeeeee... No.;Angry
+I actually spent hours in Hyrule ... hehehe;DealWithIt
+I was only four months, but it was a great experience.;Tongue
+Yeeeee... No.;Angry
+
+|And the last one... Did you like this video game resume?
+A.  Not really.
+B.  More or less...
+C.  It's not quite bad...
+D.  Of course. You are hired!
+D
+I'll give you another oportunity.;LOL
+Sure? Try again.;DealWithIt
+It would be better if you think it carefully...;Angry
+Yes! That is the answer I wanted to hear!;WinkKiss

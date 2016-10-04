@@ -1,0 +1,199 @@
+﻿18
+
+|¿Dónde he hecho el Grado en Ingeniería del Software?
+A. Universidad Autónoma de Madrid.
+B. Universidad de Miskatonic.
+C. Universidad Complutense de Madrid.
+D. En la Universidad de la Vida.
+C
+No, no, no...;NoNo
+Ahí es dónde conocí a Cthulhu.;NoNo
+Esa pregunta era muy fácil...;WinkHappy
+¿Se te ocurre algo mejor?;DealWithIt
+
+|¿Qué hobby tengo?
+A. Cocinar.
+B. Hacer castillos de naipes.
+C. Coleccionar comics.
+D. Las apuestas.
+A
+Es muy relajante...;WinkHappy
+Eso no es el todo correcto.;Angry
+Nah, eso es cosa de frikis...;LOL
+¿En serio? ¿Las apuestas?;NoNo
+
+|¿Cuál es mi videojuego favorito?
+A. Final Fantasy VII.
+B. El secreto de Monkey Island.
+C. Super Mario. Todos.
+D. World of Warcraft.
+B
+Piénsalo mejor la próxima vez.;NoNo
+¡El mejor juego del mundo!;WinkHappy
+Super Mario no está mal, pero... no.;Tongue
+Me gustaría tener vida social... ¿Vale?;LOL
+
+|¿Dónde está Jessica Hyde?
+A. Chili, arena, lejía, cuchara.
+B. Estás muy raro hoy.
+C. Esto parece alguna referencia a una serie...
+D. Ok. Para este juego ya, por favor.
+A
+Debes ser un gran fan de 'Utopía'.;WinkHappy
+No, no, no...;NoNo
+Sí, pero no es la respuesta que estaba buscando.;Ains
+Puedes pararlo cuando tú quieras.;DealWithIt
+
+|¿Cuántos hermanos y hermanas tengo?
+A. 0.
+B. 2.
+C. 3.
+D. 6.
+D
+Alguno más...;NoNo
+Alguno más...;NoNo
+Alguno más...;NoNo
+¿Es acaso raro?;LOL
+
+|Espartanos, ¡¿Cuál es vuestro oficio?!
+A. ¡Haauul Haauul Haauul!
+B. Piratas.
+C. Bomberos de papel.
+D. Programadores.
+A
+¡HAAUUL HAAUUL HAAUUL!;DealWithIt
+Pse...;Angry
+Esa sería una profesión complicada.;Tongue
+¿Espartanos y ordenadores?;Ains
+
+|¿Cuál es mi deporte favorito?
+A. Fútbol.
+B. Baloncesto.
+C. Correr para coger el autobús.
+D. ¿Los videojuegos son un deporte?
+B
+Qué aburrimiento...;Ains
+Eres demasiado listo para mís preguntas.;WinkKiss
+En eso soy experto. Pero no se puede considerar un deporte.;LOL
+Uff... De hecho, no son un deporte.;NoNo
+
+|¿Cuántos Pokemon hay?
+A.  150.
+B.  250.
+C.  721.
+D.  Infinitos.
+C
+Eso sería al principio.;NoNo
+Cerca...;Tongue
+Eso ha sido pura suerte.;LOL
+Todavía no, pero espera unos años...;LOL
+
+|¿Por qué abrimos la boca cuando miramos al techo?
+A. Por alguna razón fisiológica.
+B. Para beber el agua de la lluvia.
+C. Para parecer estúpidos.
+D. Lo siento, yo no puedo. Soy tetraplégico.
+C
+¿Estás seguro?;NoNo
+La respuesta es más tonta que la pregunta.;Ains
+Seguro que lo has probado al leerlo.;WinkKiss
+Dios mío... Ese chiste negro es muy duro...;LOL
+
+|¿Qué quería ser cuando era pequeño?
+A. Farmaceutico, como mi padre.
+B. Programador, en LucasArts.
+C. Profesor, como mi madre.
+D. Animador en Pixar.
+D
+Estás un poco perdido.;NoNo
+En su época LucasArts molaba, pero... no.;Angry
+No, no, no...;NoNo
+¡Eso ha sido increíble!;WinkKiss
+
+|¡Luchas como un ganadero!
+A. Yo soy cola, tú pegamento.
+B. Qué apropiado. Tú peleas como una vaca.
+C. ¡¡¡ESO NO ES NI SIQUIERA UNA PREGUNTA!!!
+D. ¡Vaya idiota!
+B
+Eso, obviamente, no tuvo efecto.;NoNo
+¡Sí! ¡He vencido a la mestra de la espada!;DealWithIt
+Es verdad, pero ¿A quién le importa?;Tongue
+Eso, obviamente, no tuvo efecto.;NoNo
+
+|¿Cuál sería mi trabajo ideal?
+A. Torero.
+B. Político corrupto.
+C. Chef profesional.
+D. Desarrollador de vieojuegos.
+D
+Claro que... no.;Angry
+No, eso ya se lo dejo a los políticos españoles.;DealWithIt
+Estaría guay, pero... no.;Tongue
+Era obvio... ¿No?;LOL
+
+|¿Quién ganaría en una batalla? ¿Batman o Superman?
+A. Batman.
+B. Superman.
+C. Sería empate.
+D. Chuck Norris.
+D
+¿Por qué? ¡Es un humano!;NoNo
+¿Por qué? Es débil ante la kriptonita.;NoNo
+¿Empate? Qué aburrido...;Angry
+¡Chuck Norris vence a todos!;DealWithIt
+
+|¿Quién es Larry Laffer?
+A. Un insignificante ligón.
+B. El farmaceutico de la frontera.
+C. Un poderoso mago.
+D. Un asesino en serie.
+A
+¡Veo que tienes una gran cultura en videojuegos!;WinkKiss
+¿En serio?;Angry
+Hoy no es tu día de suerte.;Ains
+¿En serio?;Angry
+
+|¿Cuál de estos trabajos no he hecho nunca?
+A. Profesor particular.
+B. Programador.
+C. Árbitro de baloncesto.
+D. Amo de casa.
+C
+Llevo haciéndolo muchos años.;NoNo
+Si ese es mi trabajo...;Ains
+Eso tiene sentido.;Tongue
+Sólo de vez en cuando.;LOL
+
+|¿El cero es par o impar?
+A. Impar.
+B. Par.
+C. ¿Eso qué más da?.
+D. ¿El cero es un número?.
+B
+Tenías un 50% de posibilidades.;NoNo
+¡Bien!;WinkHappy
+Sí, eso importa.;Ains
+Obviamente, no eres matemático.;DealWithIt
+
+|¿En qué sitio fuera de España he vivido?
+A. Portugal.
+B. Hyrule.
+C. Italia.
+D. Francia.
+C
+Seeeee... No.;Angry
+De hecho, pasé muchas horas en Hyrule ... hehehe;DealWithIt
+Fueron sólo cuatro meses, pero fué una gran experiencia.;Tongue
+Seeeee... No.;Angry
+
+|Y ahora la última... ¿Te ha gustado este videojuego curriculum?
+A.  No mucho.
+B.  Más o menos...
+C.  No está mal...
+D.  Claro. ¡Estás contratado!
+D
+Venga... te daré otra oportunidad.;LOL
+¿En serio? Inténtalo otra vez.;DealWithIt
+Sería mejor si te lo piensas tranquilamente...;Angry
+¡Sí! !Esa es la respuesta que estaba esperando!;WinkKiss

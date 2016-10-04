@@ -1,0 +1,9 @@
+﻿8
+|Hola.
+|El juego es muy sencillo. Yo hago preguntas, y tú intentas adivinar las respuestas... ¿Vale?
+|Hay cuatro posibles respuestas,
+|un cronómetro,
+|una barra de progreso,
+|y lo más importante...
+|Mi útil y sexy presencia.
+|Bueno... que se nos va el tiempo... ¡VAMOS!

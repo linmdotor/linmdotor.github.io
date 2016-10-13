@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1476207723
+#1476375197
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -31,7 +31,6 @@ media/time_fast.ogg
 media/time_med.ogg
 media/time_slow.ogg
 media/time_out.ogg
-media/time_out2.ogg
 media/click.ogg
 media/trivial%20pursuit%20sega.ogg
 media/applause.ogg
@@ -43,7 +42,6 @@ media/menu.m4a
 media/time_fast.m4a
 media/time_med.m4a
 media/time_out.m4a
-media/time_out2.m4a
 media/time_slow.m4a
 media/trivial%20pursuit%20sega.m4a
 icon-16.png

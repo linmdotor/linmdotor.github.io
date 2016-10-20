@@ -1,6 +1,6 @@
 ﻿18
 
-|Para empezar, algo sencillo: ¿Cuánto es 2 + 2?
+|Para empezar, algo sencillo: ¿Cuánto es 2+2?
 A. 4.
 B. 5.
 C. Depende de la base en que esté el 2.
@@ -28,7 +28,7 @@ B. El secreto de Monkey Island.
 C. Super Mario. Todos.
 D. World of Warcraft.
 B
-Piénsalo mejor la próxima vez.;NoNo
+Ehhh... Debes estar bromeando.;NoNo
 ¡El mejor juego del mundo!;WinkHappy
 Es uno de los grandes, pero... no.;Tongue
 Eh... Me gustaría tener vida social... ¿Vale?;LOL
@@ -81,7 +81,7 @@ D
 A. Farmacéutico, como mi padre.
 B. Programador en LucasArts.
 C. Profesor, como mi madre.
-D. Animador en Pixar.
+D. Animador en Pixar Studios.
 D
 Era una posibilidad, pero... no.;NoNo
 En su época LucasArts molaba mucho, pero... no.;Angry
@@ -112,7 +112,7 @@ Al final, lo más importante para saber programar no es el lenguaje.;WinkHappy
 
 |Espartanos, ¡¿Cuál es vuestro oficio?!
 A. ¡Haauul Haauul Haauul!
-B. Militares.
+B. Actores figurantes.
 C. Bomberos de papel.
 D. Programadores.
 A
@@ -147,7 +147,7 @@ Con esa actitud no vas a llegar muy lejos...;Angry
 A. volatile.
 B. virtual.
 C. veggie.
-D. Eh... yo sólo soy de recursos humanos.
+D. Eh... yo sólo pasaba por aquí.
 C
 Vaaale, esta pregunta no era tan sencilla...;NoNo
 Vaaale, esta pregunta no era tan sencilla...;NoNo
@@ -162,7 +162,7 @@ D. Resistencia al fuego.
 D
 Si es para una Game Jam puede dar un poco igual, pero si no...;NoNo
 Vale que los videojuegos no controlan centrales nucleares, pero bueno...;Ains
-Pseee, no tiene por qué ser muy importante... si quieres hacer un TETRIS.;DealWithIt
+Pseee, no tiene porqué ser muy importante... si quieres hacer un TETRIS.;DealWithIt
 Parece una propiedad importante, pero no creo que influya en el producto final. jejeje.;LOL
 
 |¿Cuál de estas respuestas es la verdadera?

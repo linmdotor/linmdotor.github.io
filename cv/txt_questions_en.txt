@@ -1,4 +1,4 @@
-﻿15
+﻿18
 
 |Where did I get my bachelor of Software Engineering?
 A. Autonomous University of Madrid.
@@ -83,7 +83,7 @@ B.  250.
 C.  721.
 D.  Infinite.
 C
-That was at the beginning.;NoNo
+That was just at the beginning.;NoNo
 Nearly...;Tongue
 That was just lucky.;LOL
 It might be true in a few years.;LOL
@@ -162,7 +162,7 @@ D. Housekeeper.
 C
 I've been doing it for many years.;NoNo
 That is my profession...;Ains
-That make sense.;Tongue
+That makes sense.;Tongue
 Only occasionally.;LOL
 
 |Is Zero Odd or Even?

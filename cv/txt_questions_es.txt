@@ -1,136 +1,70 @@
-﻿15
+﻿18
 
-|¿Dónde he hecho el Grado en Ingeniería del Software?
-A. Universidad Autónoma de Madrid.
+|Para empezar, algo sencillo: ¿Cuánto es 2 + 2?
+A. 4.
+B. 5.
+C. Depende de la base en que esté el 2.
+D. 42.
+C
+Algunas veces sí, Winston. Pero otras veces son 5. Y otras, 3.;NoNo
+Puede llegar a ser cinco, pero depende de cuánto insistas en ello.;Tongue
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;WinkHappy
+Buen intento...;Ains
+
+|¿Dónde he hecho el Máster en Desarrollo y Programación de Videojuegos?
+A. Colegio Hogwarts de Magia y Hechicería.
 B. Universidad de Miskatonic.
 C. Universidad Complutense de Madrid.
 D. En la Universidad de la Vida.
 C
-No, no, no...;NoNo
-Ahí es dónde conocí a Cthulhu.;NoNo
-Esa pregunta era muy fácil...;WinkHappy
-¿Se te ocurre algo mejor?;DealWithIt
-
-|¿Qué hobby tengo?
-A. Cocinar.
-B. Hacer castillos de naipes.
-C. Coleccionar comics.
-D. Las apuestas.
-A
-Es muy relajante...;WinkHappy
-Eso no es el todo correcto.;Angry
-Nah, eso es cosa de frikis...;LOL
-¿En serio? ¿Las apuestas?;NoNo
+¿Expecto Patronum?;Angry
+No. Ahí es dónde conocí a Cthulhu.;NoNo
+Esta pregunta era de calentamiento...;WinkHappy
+La mejor escuela de todas... jejeje.;DealWithIt
 
 |¿Cuál es mi videojuego favorito?
-A. Final Fantasy VII.
+A. Las aventuras de Peppa Pig y sus amigos.
 B. El secreto de Monkey Island.
 C. Super Mario. Todos.
 D. World of Warcraft.
 B
 Piénsalo mejor la próxima vez.;NoNo
 ¡El mejor juego del mundo!;WinkHappy
-Super Mario no está mal, pero... no.;Tongue
-Me gustaría tener vida social... ¿Vale?;LOL
+Es uno de los grandes, pero... no.;Tongue
+Eh... Me gustaría tener vida social... ¿Vale?;LOL
 
-|¿Dónde está Jessica Hyde?
-A. Chili, arena, lejía, cuchara.
-B. Estás muy raro hoy.
-C. Esto parece alguna referencia a una serie...
-D. Ok. Para este juego ya, por favor.
+|¿Qué es lo que me hizo querer dedicarme al desarrollo de videojuegos?
+A. Intentar hacer de una afición mi profesión.
+B. Ganar montones y montones de dinero.
+C. Para ligar más.
+D. La insensatez de la juventud.
 A
-Debes ser un gran fan de 'Utopía'.;WinkHappy
-No, no, no...;NoNo
-Sí, pero no es la respuesta que estaba buscando.;Ains
-Puedes pararlo cuando tú quieras.;DealWithIt
+También podría denominarse "Demasiada pasión por lo suyo".;WinkHappy
+JA JA JA. Difícil hacerse muchimillonario en videojuegos.;LOL
+Nah, no creo que con esto se ligue especialmente... o igual yo no me he enterado.;LOL
+Un poco sí, pero la causa principal fue vocacional.;Tongue
 
-|¿Cuántos hermanos y hermanas tengo?
-A. 0.
-B. 2.
-C. 3.
-D. 6.
-D
-Alguno más...;NoNo
-Alguno más...;NoNo
-Alguno más...;NoNo
-¿Es acaso raro?;LOL
-
-|Espartanos, ¡¿Cuál es vuestro oficio?!
-A. ¡Haauul Haauul Haauul!
-B. Piratas.
-C. Bomberos de papel.
-D. Programadores.
-A
-¡HAAUUL HAAUUL HAAUUL!;DealWithIt
-Pse...;Angry
-Esa sería una profesión complicada.;Tongue
-¿Espartanos y ordenadores?;Ains
-
-|¿Cuál es mi deporte favorito?
-A. Fútbol.
-B. Baloncesto.
-C. Correr para coger el autobús.
-D. ¿Los videojuegos son un deporte?
-B
-Qué aburrimiento...;Ains
-Eres demasiado listo para mís preguntas.;WinkKiss
-En eso soy experto. Pero no se puede considerar un deporte.;LOL
-Uff... De hecho, no son un deporte.;NoNo
-
-|¿Cuántos Pokemon hay?
-A.  150.
+|¿Cuántos Pokémon hay?
+A.  151.
 B.  250.
-C.  721.
+C.  721, y en aumento.
 D.  Infinitos.
 C
-Eso sería al principio.;NoNo
-Cerca...;Tongue
-Eso ha sido pura suerte.;LOL
-Todavía no, pero espera unos años...;LOL
-
-|¿Por qué abrimos la boca cuando miramos al techo?
-A. Por alguna razón fisiológica.
-B. Para beber el agua de la lluvia.
-C. Para parecer estúpidos.
-D. Lo siento, yo no puedo. Soy tetraplégico.
-C
-¿Estás seguro?;NoNo
-La respuesta es más tonta que la pregunta.;Ains
-Seguro que lo has probado al leerlo.;WinkKiss
-Dios mío... Ese chiste negro es muy duro...;LOL
-
-|¿Qué quería ser cuando era pequeño?
-A. Farmaceutico, como mi padre.
-B. Programador, en LucasArts.
-C. Profesor, como mi madre.
-D. Animador en Pixar.
-D
-Estás un poco perdido.;NoNo
-En su época LucasArts molaba, pero... no.;Angry
-No, no, no...;NoNo
-¡Eso ha sido increíble!;WinkKiss
-
-|¡Luchas como un ganadero!
-A. Yo soy cola, tú pegamento.
-B. Qué apropiado. Tú peleas como una vaca.
-C. ¡¡¡ESO NO ES NI SIQUIERA UNA PREGUNTA!!!
-D. ¡Vaya idiota!
-B
-Eso, obviamente, no tuvo efecto.;NoNo
-¡Sí! ¡He vencido a la mestra de la espada!;DealWithIt
-Es verdad, pero ¿A quién le importa?;Tongue
-Eso, obviamente, no tuvo efecto.;NoNo
+Eso fueron sólo los primeros.;NoNo
+Casi... sólo te faltaron unos 500.;Tongue
+¿Qué será lo próximo? ¿El Pokémon tostadora?;LOL
+Todavía no, pero espérate unos años...;LOL
 
 |¿Cuál sería mi trabajo ideal?
-A. Torero.
-B. Político corrupto.
-C. Chef profesional.
-D. Desarrollador de vieojuegos.
-D
-Claro que... no.;Angry
-No, eso ya se lo dejo a los políticos españoles.;DealWithIt
-Estaría guay, pero... no.;Tongue
-Era obvio... ¿No?;LOL
+A. Pirata Mago.
+B. Programador de videojuegos.
+C. Solucionador de problemas.
+D. Político corrupto.
+B
+Me gusta como piensas, pero... no.;Angry
+Esta era bastante fácil... ¿no?;LOL
+Si hubiera una profesión de ello, no te digo que no...;Tongue
+No, de eso ya tenemos suficiente en España.;DealWithIt
 
 |¿Quién ganaría en una batalla? ¿Batman o Superman?
 A. Batman.
@@ -138,62 +72,128 @@ B. Superman.
 C. Sería empate.
 D. Chuck Norris.
 D
-¿Por qué? ¡Es un humano!;NoNo
-¿Por qué? Es débil ante la kriptonita.;NoNo
-¿Empate? Qué aburrido...;Angry
+¡Chuck Norris vence a todos!;DealWithIt
+¡Chuck Norris vence a todos!;DealWithIt
+¿Empate? Veo que no te la juegas...;Angry
 ¡Chuck Norris vence a todos!;DealWithIt
 
-|¿Quién es Larry Laffer?
-A. Un insignificante ligón.
-B. El farmaceutico de la frontera.
-C. Un poderoso mago.
-D. Un asesino en serie.
-A
-¡Veo que tienes una gran cultura en videojuegos!;WinkKiss
-¿En serio?;Angry
-Hoy no es tu día de suerte.;Ains
-¿En serio?;Angry
+|¿Qué quería ser cuando era pequeño?
+A. Farmacéutico, como mi padre.
+B. Programador en LucasArts.
+C. Profesor, como mi madre.
+D. Animador en Pixar.
+D
+Era una posibilidad, pero... no.;NoNo
+En su época LucasArts molaba mucho, pero... no.;Angry
+Era una posibilidad, pero... no.;NoNo
+¡Eso ha sido increíble! ¿Cómo lo has sabido?;WinkKiss
 
-|¿Cuál de estos trabajos no he hecho nunca?
+|¡Luchas como un ganadero!
+A. Yo soy cola, tú pegamento.
+B. Qué apropiado. Tú peleas como una vaca.
+C. ¡¡¡ESTO NO ES NI SIQUIERA UNA PREGUNTA!!!
+D. ¡Vaya idiota!
+B
+Eso, obviamente, no tuvo efecto.;NoNo
+¡Sí! ¡Has vencido a la maestra de la espada!;DealWithIt
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;Tongue
+Eso, obviamente, no tuvo efecto.;NoNo
+
+|Ya llegamos a la mitad del test... ¿En qué lenguaje prefiero programar?
+A. C++
+B. C#
+C. C*
+D. El lenguaje da lo mismo.
+D
+No, aunque es lo que más he estudiado durante el Máster.;NoNo
+No, aunque es con lo que he trabajado en PadaOne Games.;NoNo
+Creo que no estás muy al día en lenguajes de programación.;Ains
+Al final, lo más importante para saber programar no es el lenguaje.;WinkHappy
+
+|Espartanos, ¡¿Cuál es vuestro oficio?!
+A. ¡Haauul Haauul Haauul!
+B. Militares.
+C. Bomberos de papel.
+D. Programadores.
+A
+¡HAAUUL HAAUUL HAAUUL!;DealWithIt
+Pse...;Angry
+Esa sería una profesión complicada. ¿No?;WinkHappy
+¿Espartanos y ordenadores? Creo que no.;Ains
+
+|Hablando de oficios... ¿Cuál de estos trabajos NO he hecho nunca?
 A. Profesor particular.
 B. Programador.
-C. Árbitro de baloncesto.
-D. Amo de casa.
+C. Sexador de pollos.
+D. Monitor de campamento.
 C
-Llevo haciéndolo muchos años.;NoNo
-Si ese es mi trabajo...;Ains
-Eso tiene sentido.;Tongue
-Sólo de vez en cuando.;LOL
-
-|¿El cero es par o impar?
-A. Impar.
-B. Par.
-C. ¿Eso qué más da?.
-D. ¿El cero es un número?.
-B
-Tenías un 50% de posibilidades.;NoNo
-¡Bien!;WinkHappy
-Sí, eso importa.;Ains
-Obviamente, no eres matemático.;DealWithIt
+Eso llevo haciéndolo bastantes años.;NoNo
+¡Pero si me dedico a eso!;Ains
+Difícil... a menos que fueran pollos de goma con polea en medio.;Tongue
+En realidad he trabajado como monitor y educador bastates veces.;NoNo
 
 |¿En qué sitio fuera de España he vivido?
-A. Portugal.
+A. Italia.
 B. Hyrule.
-C. Italia.
-D. Francia.
-C
-Seeeee... No.;Angry
-De hecho, pasé muchas horas en Hyrule ... hehehe;DealWithIt
-Fueron sólo cuatro meses, pero fué una gran experiencia.;Tongue
-Seeeee... No.;Angry
+C. En tú corazón.
+D. Me da bastante igual.
+A
+Fueron sólo cuatro meses, pero fue una gran experiencia.;Tongue
+De hecho, pasé muchas horas en Hyrule... jejeje.;DealWithIt
+Eh... eso ha sido bastante patético. Detén este juego YA, por favor.;LOL
+Con esa actitud no vas a llegar muy lejos...;Angry
 
-|Y ahora la última... ¿Te ha gustado este videojuego curriculum?
+|Pasemos a algo más técnico: ¿Cuál de estas NO es una palabra reservada en C++?
+A. volatile.
+B. virtual.
+C. veggie.
+D. Eh... yo sólo soy de recursos humanos.
+C
+Vaaale, esta pregunta no era tan sencilla...;NoNo
+Vaaale, esta pregunta no era tan sencilla...;NoNo
+Cierto. La palabra 'veggie' no parece muy técnica.;Tongue
+No me vale la excusa de 'Era mi primerito día'.;DealWithIt
+
+|¿Qué NO se debe tener en cuenta al valorar la calidad del código? 
+A. Mantenibilidad.
+B. Robustez.
+C. Eficiencia.
+D. Resistencia al fuego.
+D
+Si es para una Game Jam puede dar un poco igual, pero si no...;NoNo
+Vale que los videojuegos no controlan centrales nucleares, pero bueno...;Ains
+Pseee, no tiene por qué ser muy importante... si quieres hacer un TETRIS.;DealWithIt
+Parece una propiedad importante, pero no creo que influya en el producto final. jejeje.;LOL
+
+|¿Cuál de estas respuestas es la verdadera?
+A. Todas menos esta.
+B. Sólo esta.
+C. Todas.
+D. Ninguna.
+B
+Vaaale... había poco tiempo para pensarlo.;NoNo
+¡Muy bien! Ahí has estado muy ágil.;WinkKiss
+Vaaale... había poco tiempo para pensarlo.;NoNo
+Vaaale... había poco tiempo para pensarlo.;NoNo
+
+|¿Qué experiencia PROFESIONAL tengo en la programación de videojuegos?
+A. Cerca de 1 año con Unity.
+B. Infinita.
+C. Nada de nada, monada.
+D. ¿Me arreglas el PC?
+A
+Eso sin contar otros proyectos que puedes ver en mi LinkedIn...;WinkHappy
+Creo que estás exagerando un poco. Mejor que mires luego mi LinkedIn.;LOL
+Creo que estás exagerando un poco. Mejor que mires luego mi LinkedIn.;Ains
+¿Vas en serio? Mejor que mires luego mi LinkedIn.;Angry
+
+|Para terminar... ¿Te ha gustado este videojuego currículum?
 A.  No mucho.
 B.  Más o menos...
-C.  No está mal...
-D.  Claro. ¡Estás contratado!
+C.  Psseee... No está mal...
+D.  Muchísimo. ¿Quedamos para una entrevista?
 D
 Venga... te daré otra oportunidad.;LOL
 ¿En serio? Inténtalo otra vez.;DealWithIt
-Sería mejor si te lo piensas tranquilamente...;Angry
-¡Sí! !Esa es la respuesta que estaba esperando!;WinkKiss
+Sería mejor si te lo pensaras tranquilamente...;Angry
+¡Claro que sí! !Esa es la respuesta que estaba esperando!;WinkKiss

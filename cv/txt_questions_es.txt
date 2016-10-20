@@ -8,7 +8,7 @@ D. 42.
 C
 Algunas veces sí, Winston. Pero otras veces son 5. Y otras, 3.;NoNo
 Puede llegar a ser cinco, pero depende de cuánto insistas en ello.;Tongue
-En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;WinkHappy
+Ok, parece que vales para esto. Sigamos entonces.;WinkHappy
 Buen intento...;Ains
 
 |¿Dónde he hecho el Máster en Desarrollo y Programación de Videojuegos?
@@ -40,7 +40,7 @@ C. Para ligar más.
 D. La insensatez de la juventud.
 A
 También podría denominarse "Demasiada pasión por lo suyo".;WinkHappy
-JA JA JA. Difícil hacerse muchimillonario en videojuegos.;LOL
+JA JA JA. Para eso una consultoría sería mejor opción...;LOL
 Nah, no creo que con esto se ligue especialmente... o igual yo no me he enterado.;LOL
 Un poco sí, pero la causa principal fue vocacional.;Tongue
 

@@ -1,6 +1,6 @@
 ﻿8
 |Hi.
-|The game is quite simple. I make questions, and you try to guess the correct answers... Ok?
+|The game is quite simple. I ask questions, and you try to guess the correct answers... Ok?
 |There are four possible answers,
 |a timer,
 |a progress bar,

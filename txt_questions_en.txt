@@ -84,18 +84,6 @@ It was a possibility, but... no.;NoNo
 That was awesome! How did you know?;WinkKiss
 Creativity attracted me since childhood.;SpeakLong
 
-|You fight like a dairy farmer.
-A. I am rubber, you are glue.
-B. How appropriate. You fight like a cow.
-C. THIS IS NOT EVEN A QUESTION!!!
-D. What an idiot!
-B
-That is, obviously, ineffective.;NoNo
-Yeah! I beat the Sword Master!;DealWithIt
-Seriously, have you never played Monkey Island? Stop this and start it.;Tongue
-That is, obviously, ineffective.;NoNo
-Seriously, have you never played Monkey Island? Stop this and start it.;SpeakLong
-
 |We've already reached half way in the quiz... Which programming language do I prefer?
 A. C++
 B. C#
@@ -107,6 +95,18 @@ No, although I've worked with it in PadaOne Games.;NoNo
 I think you have to study about programming languages.;Ains
 In the end, the most important thing is to be a good programmer.;WinkHappy
 In the end, the most important thing is to be a good programmer.;SpeakLong
+
+|You fight like a dairy farmer.
+A. I am rubber, you are glue.
+B. How appropriate. You fight like a cow.
+C. THIS IS NOT EVEN A QUESTION!!!
+D. What an idiot!
+B
+That is, obviously, ineffective.;NoNo
+Yeah! I beat the Sword Master!;DealWithIt
+Seriously, have you never played Monkey Island? Stop this and start it.;Tongue
+That is, obviously, ineffective.;NoNo
+Seriously, have you never played Monkey Island? Stop this and start it.;SpeakLong
 
 |Which of these jobs have I never done?
 A. Teacher tutoring.

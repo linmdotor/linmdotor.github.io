@@ -84,18 +84,6 @@ Era una posibilidad, pero... no.;NoNo
 ¡Eso ha sido increíble! ¿Cómo lo has sabido?;WinkKiss
 La creatividad me atrajo desde pequeño.;SpeakLong
 
-|¡Luchas como un ganadero!
-A. Yo soy cola, tú pegamento.
-B. Qué apropiado. Tú peleas como una vaca.
-C. ¡¡¡ESTO NO ES NI SIQUIERA UNA PREGUNTA!!!
-D. ¡Vaya idiota!
-B
-Eso, obviamente, no tuvo efecto.;NoNo
-¡Sí! ¡Has vencido a la maestra de la espada!;DealWithIt
-En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;Tongue
-Eso, obviamente, no tuvo efecto.;NoNo
-En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;SpeakLong
-
 |Ya llegamos a la mitad del test... ¿En qué lenguaje prefiero programar?
 A. C++
 B. C#
@@ -107,6 +95,18 @@ No, aunque es con lo que he trabajado en PadaOne Games.;NoNo
 Creo que no estás muy al día en lenguajes de programación.;Ains
 Al final, lo más importante para saber programar no es el lenguaje.;WinkHappy
 Al final, lo más importante para saber programar no es el lenguaje.;SpeakLong
+
+|¡Luchas como un ganadero!
+A. Yo soy cola, tú pegamento.
+B. Qué apropiado. Tú peleas como una vaca.
+C. ¡¡¡ESTO NO ES NI SIQUIERA UNA PREGUNTA!!!
+D. ¡Vaya idiota!
+B
+Eso, obviamente, no tuvo efecto.;NoNo
+¡Sí! ¡Has vencido a la maestra de la espada!;DealWithIt
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;Tongue
+Eso, obviamente, no tuvo efecto.;NoNo
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;SpeakLong
 
 |¿Cuál de estos trabajos NO he hecho nunca?
 A. Profesor particular.

@@ -1,4 +1,4 @@
-﻿18
+﻿15
 
 |Para empezar, algo sencillo: ¿Cuánto es 2+2?
 A. 4.
@@ -10,6 +10,7 @@ Algunas veces sí, Winston. Pero otras veces son 5. Y otras, 3.;NoNo
 Puede llegar a ser cinco, pero depende de cuánto insistas en ello.;Tongue
 Ok, parece que vales para esto. Sigamos entonces.;WinkHappy
 Buen intento...;Ains
+Intenta hacerlo mejor la próxima vez...;SpeakLong
 
 |¿Dónde he hecho el Máster en Desarrollo y Programación de Videojuegos?
 A. Colegio Hogwarts de Magia y Hechicería.
@@ -21,6 +22,7 @@ C
 No. Ahí es dónde conocí a Cthulhu.;NoNo
 Esta pregunta era de calentamiento...;WinkHappy
 La mejor escuela de todas... jejeje.;DealWithIt
+Allí hice también el Grado en Ingeniería del Software.;SpeakLong
 
 |¿Cuál es mi videojuego favorito?
 A. Las aventuras de Peppa Pig y sus amigos.
@@ -29,9 +31,10 @@ C. Super Mario. Todos.
 D. World of Warcraft.
 B
 Ehhh... Debes estar bromeando.;NoNo
-¡El mejor juego del mundo!;WinkHappy
+Me llamo Lin M. Dotor, ¡y quiero ser desarrollador de videojuegos!;WinkHappy
 Es uno de los grandes, pero... no.;Tongue
 Eh... Me gustaría tener vida social... ¿Vale?;LOL
+Me llamo Lin M. Dotor, ¡y quiero ser desarrollador de videojuegos!;SpeakLong
 
 |¿Qué es lo que me hizo querer dedicarme al desarrollo de videojuegos?
 A. Intentar hacer de una afición mi profesión.
@@ -43,17 +46,7 @@ También podría denominarse "Demasiada pasión por lo suyo".;WinkHappy
 JA JA JA. Para eso una consultoría sería mejor opción...;LOL
 Nah, no creo que con esto se ligue especialmente... o igual yo no me he enterado.;LOL
 Un poco sí, pero la causa principal fue vocacional.;Tongue
-
-|¿Cuántos Pokémon hay?
-A.  151.
-B.  250.
-C.  721, y en aumento.
-D.  Infinitos.
-C
-Eso fueron sólo los primeros.;NoNo
-Casi... sólo te faltaron unos 500.;Tongue
-¿Qué será lo próximo? ¿El Pokémon tostadora?;LOL
-Todavía no, pero espérate unos años...;LOL
+También podría denominarse "Demasiada pasión por lo suyo".;SpeakLong
 
 |¿Cuál sería mi trabajo ideal?
 A. Pirata Mago.
@@ -65,6 +58,7 @@ Me gusta como piensas, pero... no.;Angry
 Esta era bastante fácil... ¿no?;LOL
 Si hubiera una profesión de ello, no te digo que no...;Tongue
 No, de eso ya tenemos suficiente en España.;DealWithIt
+Al menos, ese es mi objetivo.;SpeakLong
 
 |¿Quién ganaría en una batalla? ¿Batman o Superman?
 A. Batman.
@@ -76,6 +70,7 @@ D
 ¡Chuck Norris vence a todos!;DealWithIt
 ¿Empate? Veo que no te la juegas...;Angry
 ¡Chuck Norris vence a todos!;DealWithIt
+¡Chuck Norris vence a todos!;SpeakLong
 
 |¿Qué quería ser cuando era pequeño?
 A. Farmacéutico, como mi padre.
@@ -87,6 +82,7 @@ Era una posibilidad, pero... no.;NoNo
 En su época LucasArts molaba mucho, pero... no.;Angry
 Era una posibilidad, pero... no.;NoNo
 ¡Eso ha sido increíble! ¿Cómo lo has sabido?;WinkKiss
+La creatividad me atrajo desde pequeño.;SpeakLong
 
 |¡Luchas como un ganadero!
 A. Yo soy cola, tú pegamento.
@@ -98,6 +94,7 @@ Eso, obviamente, no tuvo efecto.;NoNo
 ¡Sí! ¡Has vencido a la maestra de la espada!;DealWithIt
 En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;Tongue
 Eso, obviamente, no tuvo efecto.;NoNo
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;SpeakLong
 
 |Ya llegamos a la mitad del test... ¿En qué lenguaje prefiero programar?
 A. C++
@@ -109,19 +106,9 @@ No, aunque es lo que más he estudiado durante el Máster.;NoNo
 No, aunque es con lo que he trabajado en PadaOne Games.;NoNo
 Creo que no estás muy al día en lenguajes de programación.;Ains
 Al final, lo más importante para saber programar no es el lenguaje.;WinkHappy
+Al final, lo más importante para saber programar no es el lenguaje.;SpeakLong
 
-|Espartanos, ¡¿Cuál es vuestro oficio?!
-A. ¡Haauul Haauul Haauul!
-B. Actores figurantes.
-C. Bomberos de papel.
-D. Programadores.
-A
-¡HAAUUL HAAUUL HAAUUL!;DealWithIt
-Pse...;Angry
-Esa sería una profesión complicada. ¿No?;WinkHappy
-¿Espartanos y ordenadores? Creo que no.;Ains
-
-|Hablando de oficios... ¿Cuál de estos trabajos NO he hecho nunca?
+|¿Cuál de estos trabajos NO he hecho nunca?
 A. Profesor particular.
 B. Programador.
 C. Sexador de pollos.
@@ -131,17 +118,7 @@ Eso llevo haciéndolo bastantes años.;NoNo
 ¡Pero si me dedico a eso!;Ains
 Difícil... a menos que fueran pollos de goma con polea en medio.;Tongue
 En realidad he trabajado como monitor y educador bastates veces.;NoNo
-
-|¿En qué sitio fuera de España he vivido?
-A. Italia.
-B. Hyrule.
-C. En tú corazón.
-D. Me da bastante igual.
-A
-Fueron sólo cuatro meses, pero fue una gran experiencia.;Tongue
-De hecho, pasé muchas horas en Hyrule... jejeje.;DealWithIt
-Eh... eso ha sido bastante patético. Detén este juego YA, por favor.;LOL
-Con esa actitud no vas a llegar muy lejos...;Angry
+Difícil... a menos que fueran pollos de goma con polea en medio.;SpeakLong
 
 |Pasemos a algo más técnico: ¿Cuál de estas NO es una palabra reservada en C++?
 A. volatile.
@@ -153,6 +130,7 @@ Vaaale, esta pregunta no era tan sencilla...;NoNo
 Vaaale, esta pregunta no era tan sencilla...;NoNo
 Cierto. La palabra 'veggie' no parece muy técnica.;Tongue
 No me vale la excusa de 'Era mi primerito día'.;DealWithIt
+La palabra 'veggie' no parece muy técnica...;SpeakLong
 
 |¿Qué NO se debe tener en cuenta al valorar la calidad del código? 
 A. Mantenibilidad.
@@ -164,6 +142,7 @@ Si es para una Game Jam puede dar un poco igual, pero si no...;NoNo
 Vale que los videojuegos no controlan centrales nucleares, pero bueno...;Ains
 Pseee, no tiene porqué ser muy importante... si quieres hacer un TETRIS.;DealWithIt
 Parece una propiedad importante, pero no creo que influya en el producto final. jejeje.;LOL
+No creo que influya en el producto final.;SpeakLong
 
 |¿Cuál de estas respuestas es la verdadera?
 A. Todas menos esta.
@@ -175,6 +154,7 @@ Vaaale... había poco tiempo para pensarlo.;NoNo
 ¡Muy bien! Ahí has estado muy ágil.;WinkKiss
 Vaaale... había poco tiempo para pensarlo.;NoNo
 Vaaale... había poco tiempo para pensarlo.;NoNo
+Vaaale... había poco tiempo para pensarlo.;SpeakLong
 
 |¿Qué experiencia PROFESIONAL tengo en la programación de videojuegos?
 A. Cerca de 1 año con Unity.
@@ -186,6 +166,7 @@ Eso sin contar otros proyectos que puedes ver en mi LinkedIn...;WinkHappy
 Creo que estás exagerando un poco. Mejor que mires luego mi LinkedIn.;LOL
 Creo que estás exagerando un poco. Mejor que mires luego mi LinkedIn.;Ains
 ¿Vas en serio? Mejor que mires luego mi LinkedIn.;Angry
+Eso sin contar otros proyectos que puedes ver en mi LinkedIn...;SpeakLong
 
 |Para terminar... ¿Te ha gustado este videojuego currículum?
 A.  No mucho.
@@ -197,3 +178,4 @@ Venga... te daré otra oportunidad.;LOL
 ¿En serio? Inténtalo otra vez.;DealWithIt
 Sería mejor si te lo pensaras tranquilamente...;Angry
 ¡Claro que sí! !Esa es la respuesta que estaba esperando!;WinkKiss
+BLA BLA.;SpeakLong

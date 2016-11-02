@@ -1,4 +1,4 @@
-﻿18
+﻿15
 
 |Let's start with something simple: How much is 2+2?
 A. 4.
@@ -10,6 +10,7 @@ Sometimes it´s 5. Sometimes it´s 3. Sometimes it´s all of them at once.;NoNo
 It can be five, but it depends on how much you insist on it.;Tongue
 Ok, it seems you're good at this. Let's go.;WinkHappy
 Nice try...;Ains
+Try harder next time...;SpeakLong
 
 |Where did I get my Video Game Development Master's Degree?
 A. Hogwarts School of Witchcraft and Wizardry.
@@ -17,10 +18,11 @@ B. Miskatonic University.
 C. Complutense University of Madrid.
 D. University of Life.
 C
-¿Expecto Patronum?;Angry
+Expecto Patronum?;Angry
 No. There was where I met Cthulhu.;NoNo
 That question was only to warm up...;WinkHappy
 The best school of all... hehehe;DealWithIt
+There I got my Software Engineering Bachelor’s Degree also.;SpeakLong
 
 |Which one is my favourite video game?
 A. The adventures of Peppa Pig and Friends.
@@ -29,9 +31,10 @@ C. Super Mario. All of them.
 D. World of Warcraft.
 B
 Uhhh... You must be kidding.;NoNo
-The best game in the world!;WinkHappy
+My name's Lin M. Dotor, and I want to be a game developer!;WinkHappy
 It is one of the best, but... nope.;Tongue
 Uh... I would like to have social life... Ok?;LOL
+My name's Lin M. Dotor, and I want to be a game developer!;SpeakLong
 
 |What made me want to be in the game development industry?
 A. To try to turn my hobby into my job.
@@ -43,17 +46,7 @@ It could also be called "Too much passion for this".;WinkHappy
 HA HA HA. A consultancy company would be a better option for that...;LOL
 Nah, I don't think that was true... or I haven't noticed.;LOL
 A little bit, but the main reason was vocational.;Tongue
-
-|How many Pokémon are there?
-A.  151.
-B.  250.
-C.  721, and it's increasing.
-D.  They are infinite.
-C
-That was just the beginning.;NoNo
-Nearly... you only missed about 500.;Tongue
-What's next? ¿A toaster Pokémon?;LOL
-Not yet, but wait a few years...;LOL
+It could also be called "Too much passion for this".;SpeakLong
 
 |What would be my ideal profession?
 A. Pirate Wizard.
@@ -65,6 +58,7 @@ I like the way you think, but... nope.;Angry
 It's obvious... Isn't?;LOL
 If I had a job like this, it would be nice...;Tongue
 Nope, there are already too many in Spain.;DealWithIt
+At least, that's my aim.;SpeakLong
 
 |Who would win in a fight? Batman or Superman?
 A. Batman.
@@ -76,6 +70,7 @@ Chuck Norris beat them all!;DealWithIt
 Chuck Norris beat them all!;DealWithIt
 Draw? So boring...;Angry
 Chuck Norris beat them all!;DealWithIt
+Chuck Norris beat them all!;SpeakLong
 
 |What did I want to be when I was a child?
 A. A pharmacist, like my father.
@@ -87,6 +82,7 @@ It was a possibility, but... no.;NoNo
 In it's time, LucasArts ruled, but... no.;Angry
 It was a possibility, but... no.;NoNo
 That was awesome! How did you know?;WinkKiss
+Creativity attracted me since childhood.;SpeakLong
 
 |You fight like a dairy farmer.
 A. I am rubber, you are glue.
@@ -98,6 +94,7 @@ That is, obviously, ineffective.;NoNo
 Yeah! I beat the Sword Master!;DealWithIt
 Seriously, have you never played Monkey Island? Stop this and start it.;Tongue
 That is, obviously, ineffective.;NoNo
+Seriously, have you never played Monkey Island? Stop this and start it.;SpeakLong
 
 |We've already reached half way in the quiz... Which programming language do I prefer?
 A. C++
@@ -109,17 +106,7 @@ No, although it's what I've studied in the Master's Degree.;NoNo
 No, although I've worked with it in PadaOne Games.;NoNo
 I think you have to study about programming languages.;Ains
 In the end, the most important thing is to be a good programmer.;WinkHappy
-
-|Spartans, What is your profession?
-A. Haauul Haauul Haauul!
-B. Background actors.
-C. Paper Firefighters.
-D. Computer programmers.
-A
-HAAUUL HAAUUL HAAUUL!;DealWithIt
-Pfff...;Angry
-That would be a difficult profession.;Tongue
-¿Spartans and computers? I don't think so.;Ains
+In the end, the most important thing is to be a good programmer.;SpeakLong
 
 |Which of these jobs have I never done?
 A. Teacher tutoring.
@@ -128,20 +115,10 @@ C. Chicken sexer.
 D. Camp monitor.
 C
 I've been doing it for many years.;NoNo
-¡That is my profession!;Ains
+That is my profession!;Ains
 Difficult... unless they were rubber chickens with a pulley in the middle.;Tongue
 Actually I've worked as camp monitor and educator several times.;NoNo
-
-|What place outside Spain have I lived in?
-A. Italy.
-B. Hyrule.
-C. In your heart.
-D. I don't care.
-A
-I was only there for four months, but it was a great experience.;Tongue
-I've actually spent hours in Hyrule ... hehehe;DealWithIt
-Uh... that was pretty pathetic. Stop this game NOW, please.;LOL
-With that attitude you won't get very far...;Angry
+Difficult... unless they were rubber chickens with a pulley in the middle.;SpeakLong
 
 |Let's move on to something more technical: Which of these is NOT a reserved word in C++?
 A. volatile.
@@ -153,6 +130,7 @@ Okaaaay, this question wasn't so simple...;NoNo
 Okaaaay, this question wasn't so simple...;NoNo
 Correct. The word 'veggie' doesn't seem very technical.;Tongue
 Don't make the excuse of 'It's my first day'.;DealWithIt
+The word 'veggie' doesn't seem very technical..;SpeakLong
 
 |What is NOT important in assessing the quality of the programming code?
 A. Maintainability.
@@ -164,6 +142,7 @@ In the case of a Game Jam it may not be important, but if not...;NoNo
 Okay video games do not control nuclear plants, but...;Ains
 Pfff, it may not be important... if you want to make TETRIS.;DealWithIt
 It seems like an important property, but I don't think it influences the product quality. hehehe.;LOL
+I don't think it influences the product quality.;SpeakLong
 
 |Which of these answers is true?
 A. All but this one.
@@ -171,10 +150,11 @@ B. Just this one.
 C. All of them.
 D. None of them.
 B
-Okaaaay ... there was little time to think.;NoNo
+Okaaaay... there was little time to think.;NoNo
 Very good! You've been very quick.;WinkKiss
-Okaaaay ... there was little time to think.;NoNo
-Okaaaay ... there was little time to think.;NoNo
+Okaaaay... there was little time to think.;NoNo
+Okaaaay... there was little time to think.;NoNo
+Okaaaay... there was little time to think.;SpeakLong
 
 |What is my PROFESSIONAL experience in game programming?
 A. About 1 year with Unity.
@@ -186,6 +166,7 @@ Not to mention other projects that you can see in my LinkedIn...;WinkHappy
 I think you're exaggerating a little. Better take a look at my LinkedIn later.;LOL
 I think you're understating a little. Better take a look at my LinkedIn later.;Ains
 Really? Better take a look at my LinkedIn later.;Angry
+Not to mention other projects that you can see in my LinkedIn...;SpeakLong
 
 |And the last one... Did you like this video game resume?
 A.  Not really.
@@ -197,3 +178,4 @@ I'll give you another oportunity.;LOL
 Really? Try again.;DealWithIt
 It would be better if you think this through carefully...;Angry
 Yes! That is the answer I wanted to hear!;WinkKiss
+BLA BLA.;SpeakLong

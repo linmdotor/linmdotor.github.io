@@ -1,0 +1,5 @@
+﻿4
+|1-3;Has conseguido el rango de JAR JAR BINKS.;Así que... casi mejor que te dediques a otra cosa.
+|4-7;Has conseguido el rango de APRENDIZ PADAWAN.;Percibo una gran Fuerza en tu interior, pero necesitas continuar tu entrenamiento.
+|8-11;Has conseguido el rango de CABALLERO JEDI.;Estás a un paso de conseguir dominar el poder de la Fuerza.
+|12-15;Has conseguido el rango de MAESTRO JEDI.;¡El maestro Yoda estaría orgulloso de ti!

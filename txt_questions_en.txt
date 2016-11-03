@@ -108,7 +108,7 @@ Seriously, have you never played Monkey Island? Stop this and start it.;Tongue
 That is, obviously, ineffective.;NoNo
 Seriously, have you never played Monkey Island? Stop this and start it.;SpeakLong
 
-|Which of these jobs have I never done?
+|Which of these jobs have I NEVER done?
 A. Teacher tutoring.
 B. Software programmer.
 C. Chicken sexer.

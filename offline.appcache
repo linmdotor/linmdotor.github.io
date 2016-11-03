@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1478172275
+#1478190112
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -61,5 +61,7 @@ txt_questions_en.txt
 txt_end_es.txt
 txt_intro_es.txt
 txt_questions_es.txt
+txt_awards_en.txt
+txt_awards_es.txt
 NETWORK:
 *

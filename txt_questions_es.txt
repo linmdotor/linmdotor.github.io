@@ -27,13 +27,13 @@ Allí hice también el Grado en Ingeniería del Software.;SpeakLong
 |¿Cuál es mi videojuego favorito?
 A. Las aventuras de Peppa Pig y sus amigos.
 B. El secreto de Monkey Island.
-C. Super Mario. Todos.
-D. World of Warcraft.
+C. Maaaaincraaaf.
+D. E.T. para la Atari 2600.
 B
 Ehhh... Debes estar bromeando.;NoNo
 Me llamo Lin M. Dotor, ¡y quiero ser desarrollador de videojuegos!;WinkHappy
-Es uno de los grandes, pero... no.;Tongue
-Eh... Me gustaría tener vida social... ¿Vale?;LOL
+Ehhh... Debes estar bromeando.;NoNo
+¿No se te ocurría un juego peor? Aunque la Atari 2600 estaba guay.;LOL
 Me llamo Lin M. Dotor, ¡y quiero ser desarrollador de videojuegos!;SpeakLong
 
 |¿Qué es lo que me hizo querer dedicarme al desarrollo de videojuegos?
@@ -50,13 +50,13 @@ También podría denominarse "Demasiada pasión por lo suyo".;SpeakLong
 
 |¿Cuál sería mi trabajo ideal?
 A. Pirata Mago.
-B. Programador de videojuegos.
-C. Solucionador de problemas.
+B. Solucionador de problemas.
+C. Programador de videojuegos.
 D. Político corrupto.
-B
+C
 Me gusta como piensas, pero... no.;Angry
-Esta era bastante fácil... ¿no?;LOL
 Si hubiera una profesión de ello, no te digo que no...;Tongue
+Esta era bastante fácil... ¿no?;LOL
 No, de eso ya tenemos suficiente en España.;DealWithIt
 Al menos, ese es mi objetivo.;SpeakLong
 
@@ -74,14 +74,14 @@ D
 
 |¿Qué quería ser cuando era pequeño?
 A. Farmacéutico, como mi padre.
-B. Programador en LucasArts.
+B. Animador en Pixar Studios.
 C. Profesor, como mi madre.
-D. Animador en Pixar Studios.
-D
-Era una posibilidad, pero... no.;NoNo
-En su época LucasArts molaba mucho, pero... no.;Angry
+D. Programador en LucasArts.
+B
 Era una posibilidad, pero... no.;NoNo
 ¡Eso ha sido increíble! ¿Cómo lo has sabido?;WinkKiss
+Era una posibilidad, pero... no.;NoNo
+En su época LucasArts molaba mucho, pero... no.;Angry
 La creatividad me atrajo desde pequeño.;SpeakLong
 
 |Ya llegamos a la mitad del test... ¿En qué lenguaje prefiero programar?
@@ -97,13 +97,13 @@ Al final, lo más importante para saber programar no es el lenguaje.;WinkHappy
 Al final, lo más importante para saber programar no es el lenguaje.;SpeakLong
 
 |¡Luchas como un ganadero!
-A. Yo soy cola, tú pegamento.
-B. Qué apropiado. Tú peleas como una vaca.
+A. Qué apropiado. Tú peleas como una vaca.
+B. Yo soy cola, tú pegamento.
 C. ¡¡¡ESTO NO ES NI SIQUIERA UNA PREGUNTA!!!
 D. ¡Vaya idiota!
-B
-Eso, obviamente, no tuvo efecto.;NoNo
+A
 ¡Sí! ¡Has vencido a la maestra de la espada!;DealWithIt
+Eso, obviamente, no tuvo efecto.;NoNo
 En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;Tongue
 Eso, obviamente, no tuvo efecto.;NoNo
 En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;SpeakLong
@@ -157,7 +157,7 @@ Vaaale... había poco tiempo para pensarlo.;NoNo
 Vaaale... había poco tiempo para pensarlo.;SpeakLong
 
 |¿Qué experiencia PROFESIONAL tengo en la programación de videojuegos?
-A. Cerca de 1 año con Unity.
+A. Cerca de 1 año con Unity3D.
 B. Infinita.
 C. Nada de nada, monada.
 D. ¿Me arreglas el PC?

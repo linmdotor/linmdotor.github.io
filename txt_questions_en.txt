@@ -27,13 +27,13 @@ There I got my Software Engineering Bachelor’s Degree also.;SpeakLong
 |Which one is my favourite video game?
 A. The adventures of Peppa Pig and Friends.
 B. The Secret of Monkey Island.
-C. Super Mario. All of them.
-D. World of Warcraft.
+C. Mineeeecraaaft.
+D. E.T. for the Atari 2600.
 B
 Uhhh... You must be kidding.;NoNo
 My name's Lin M. Dotor, and I want to be a game developer!;WinkHappy
-It is one of the best, but... nope.;Tongue
-Uh... I would like to have social life... Ok?;LOL
+Uhhh... You must be kidding.;NoNo
+Can you think of a worse game? Although the Atari 2600 was nice.;LOL
 My name's Lin M. Dotor, and I want to be a game developer!;SpeakLong
 
 |What made me want to be in the game development industry?
@@ -50,13 +50,13 @@ It could also be called "Too much passion for this".;SpeakLong
 
 |What would be my ideal profession?
 A. Pirate Wizard.
-B. Video game programmer.
-C. Problem solver.
+B. Problem solver.
+C. Video game programmer.
 D. Corrupt politician.
-B
+C
 I like the way you think, but... nope.;Angry
-It's obvious... Isn't?;LOL
 If I had a job like this, it would be nice...;Tongue
+It's obvious... Isn't?;LOL
 Nope, there are already too many in Spain.;DealWithIt
 At least, that's my aim.;SpeakLong
 
@@ -74,14 +74,14 @@ Chuck Norris beat them all!;SpeakLong
 
 |What did I want to be when I was a child?
 A. A pharmacist, like my father.
-B. A programmer in LucasArts.
+B. An animator in Pixar Studios.
 C. A teacher, like my mother.
-D. An animator in Pixar Studios.
-D
-It was a possibility, but... no.;NoNo
-In it's time, LucasArts ruled, but... no.;Angry
+D. A programmer in LucasArts.
+B
 It was a possibility, but... no.;NoNo
 That was awesome! How did you know?;WinkKiss
+It was a possibility, but... no.;NoNo
+In it's time, LucasArts ruled, but... no.;Angry
 Creativity attracted me since childhood.;SpeakLong
 
 |We've already reached half way in the quiz... Which programming language do I prefer?
@@ -97,13 +97,13 @@ In the end, the most important thing is to be a good programmer.;WinkHappy
 In the end, the most important thing is to be a good programmer.;SpeakLong
 
 |You fight like a dairy farmer.
-A. I am rubber, you are glue.
-B. How appropriate. You fight like a cow.
+A. How appropriate. You fight like a cow.
+B. I am rubber, you are glue.
 C. THIS IS NOT EVEN A QUESTION!!!
 D. What an idiot!
-B
-That is, obviously, ineffective.;NoNo
+A
 Yeah! I beat the Sword Master!;DealWithIt
+That is, obviously, ineffective.;NoNo
 Seriously, have you never played Monkey Island? Stop this and start it.;Tongue
 That is, obviously, ineffective.;NoNo
 Seriously, have you never played Monkey Island? Stop this and start it.;SpeakLong
@@ -157,7 +157,7 @@ Okaaaay... there was little time to think.;NoNo
 Okaaaay... there was little time to think.;SpeakLong
 
 |What is my PROFESSIONAL experience in game programming?
-A. About 1 year with Unity.
+A. About 1 year with Unity3D.
 B. Infinite.
 C. No experience at all.
 D. Can you fix my computer?
